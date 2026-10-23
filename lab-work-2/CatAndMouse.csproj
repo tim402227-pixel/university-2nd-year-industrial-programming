@@ -8,7 +8,6 @@
     <RootNamespace>CatAndMouse</RootNamespace>
   </PropertyGroup>
 
-  <!-- Копируем папку Data рядом с exe, чтобы входные файлы всегда находились -->
   <ItemGroup>
     <None Include="Data\**\*.txt" CopyToOutputDirectory="PreserveNewest" LinkBase="Data" />
   </ItemGroup>
