@@ -1,0 +1,18 @@
+Cat and Mouse
+
+Cat Mouse  Distance
+-------------------
+ 24    ??
+ 24    10        14
+ 24    11        13
+  4    21        17
+  4     9         5
+ 16     9         7
+ 16    15         1
+-------------------
+
+
+Distance traveled:   Mouse    Cat
+                        51     32
+
+Mouse evaded Cat
