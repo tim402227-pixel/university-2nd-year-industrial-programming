@@ -19,3 +19,4 @@
 
 \- `lab-work-2` - игра Cat and Mouse на C#. Запуск: `dotnet run`
 
+\- `lab-work-3` - токенизация текста на C# (классы Text, Sentence, Word, Punctuation, парсер, стоп-слова, экспорт в XML). Запуск: `dotnet run`, в начале программа сама прогоняет тест
